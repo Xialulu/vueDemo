@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuedemo
 
 > y
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuedemo
+>>>>>>> f604d72e8b271f1b3d04c2302ba7dd161b273692
