@@ -13,7 +13,7 @@ import Publish from './pages/detail/publish'
 Vue.use(VueRouter);
 Vue.use(VueResource);
 var router = new VueRouter({
-  mode: 'history',
+  // mode: 'history',
   routes: [{
       path: '/',
       component: IndexPage
